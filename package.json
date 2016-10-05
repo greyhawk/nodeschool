@@ -4,7 +4,7 @@
   "description": "nodejs school",
   "main": "index.js",
   "scripts": {
-    "eslint": "eslint src",
+    "checkstyle": "eslint src",
     "javascripting": "javascripting"
   },
   "author": "Ging Wu",
@@ -22,6 +22,7 @@
     "eslint-plugin-import": "^1.16.0",
     "eslint-plugin-jsx-a11y": "^2.2.2",
     "eslint-plugin-react": "^6.3.0",
+    "javascripting": "^2.6.0",
     "mocha": "^3.1.0"
   }
 }
