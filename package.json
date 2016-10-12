@@ -7,7 +7,8 @@
     "checkstyle": "eslint src",
     "javascripting": "javascripting",
     "learnyounode": "learnyounode",
-    "git-it": "git-it"
+    "git-it": "git-it",
+    "sccjs": "sccjs"
   },
   "author": "Ging Wu",
   "license": "ISC",
@@ -27,7 +28,8 @@
     "git-it": "^1.6.9",
     "javascripting": "^2.6.0",
     "learnyounode": "^3.5.7",
-    "mocha": "^3.1.0"
+    "mocha": "^3.1.0",
+    "scope-chains-closures": "^1.0.4"
   },
   "dependencies": {
     "concat-stream": "^1.5.2",
